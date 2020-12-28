@@ -1,0 +1,26 @@
+IMBD: Mouse Behavioral Dataset under Infrared conditions.
+The IMBD dataset contains 43 videos, and the videos frame rate is 30 frames per second. 
+The resolution of videos is 1920 1080 pixels，and each video has 774 ~ 3750 frames. 
+The IMBD dataset contains a total of 101360 frames of images, including 5425 frames of walking images, 7711 frames of drinking images, 37367 frames of eating images, 1307 frames of grooming images, 6836 frames of hanging images, 3965 frames of rearing behavior, and 37036 frames of of ambiguous behavior images. In our experiments, we do not perform behavior recognition on ambiguous behavior images.
+The experimental subjects were 20 specific pathogen-free Kunming mice provided by Chengdu Dossy Experimental Animals Co., LTD. All experiments were in accordance with the regulations of animal ethics management of Chengdu Institute of Biology, Chinese Academy of Sciences. 
+We provide the movement trajectory（guiji.mat） and behavior label (label.mat) of each frame of the mouse for each video.
+
+The number for the behavior type is shown below：
+Walk ：1
+Drink ：2
+Eat ：3
+Groom ：4
+Hang：5
+Rear：6
+Ambiguous behavior：0
+
+We defined six behavioral patterns of mice referred to Jhuang’s definition as follows [9].
+(1)Drinking: the mouth juxtaposed to the tip of the drinking spout.
+(2)Eating: the mouth reached and acquired food from the food bin.
+(3)Hanging: the mouse grasped the wire bars with the forelimbs and/ or hindlimbs, with at least two limbs oﬀ the ground.
+(4)Rearing: the mouse in an upright posture and forelimbs oﬀ the ground.
+(5)Walking: ambulation.
+(6)Grooming: the forelimbs or hindlimbs swept across the face or torso.
+
+Please use Matlab to open the ".mat" files.
+If you want to know more, please check our paper : Apparatus and Methods for Mouse Behavior Recognition on Foot Contact Features.
