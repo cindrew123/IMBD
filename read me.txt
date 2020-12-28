@@ -23,4 +23,3 @@ We defined six behavioral patterns of mice referred to Jhuang’s definition as 
 (6)Grooming: the forelimbs or hindlimbs swept across the face or torso.
 
 Please use Matlab to open the ".mat" files.
-If you want to know more, please check our paper : Apparatus and Methods for Mouse Behavior Recognition on Foot Contact Features.
