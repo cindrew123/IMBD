@@ -3,3 +3,5 @@ Download dataset：https://pan.baidu.com/s/1RSMbqDc1f1vPvoElcnbcWw
 password：imbd 
 
 You can use this link to download our dataset.
+
+If you have any questions, please do not hesitate to contact us: xinyaowangya@gmail.com
